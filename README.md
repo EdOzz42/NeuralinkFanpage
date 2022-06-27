@@ -1,2 +1,4 @@
 # Neuralink-Fanpage
- Um site simples sobre o projeto Neuralink do Elon Musk e Max Hodak. Feito por 2 Eduardos xD
+ Um site simples sobre o projeto Neuralink do Elon Musk. Feito por 2 Eduardos xD
+*** 
+PS: Talvez eu mude ele drasticamente daqui uns meses.

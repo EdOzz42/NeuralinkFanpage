@@ -1,0 +1,22 @@
+h1{
+    color:rgb(76, 24, 124);
+}
+h2 {
+    color:rgb(76, 24, 124);
+    text-align: left;
+}
+ul {
+    text-align: left;
+}
+body {
+    background-color: rgb(194, 194, 194); 
+    font: normal 20pt Arial;
+    text-align: center;
+    color: rgb(109, 20, 101);    
+}
+#banner {
+    width: 60%;
+    height: 60%;
+}
+
+

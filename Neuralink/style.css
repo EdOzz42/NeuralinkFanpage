@@ -1,5 +1,5 @@
 h1{
-    font-size: 300%;
+    font-size: 280%;
     color:rgb(255, 255, 255);
 }
 h2 {
@@ -12,7 +12,7 @@ ul {
 }
 body {
     margin: 2.5%;
-    background-color: rgb(47, 47, 47); 
+    background-color: rgb(28, 28, 28); 
     font: normal 20pt Arial;
     text-align: center;
     color: rgb(255, 255, 255);    
